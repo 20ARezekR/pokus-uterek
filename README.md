@@ -1,0 +1,2 @@
+# pokus-uterek
+pokusny repositar
